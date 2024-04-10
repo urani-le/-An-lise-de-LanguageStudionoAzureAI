@@ -1,0 +1,14 @@
+Immunotherapy outcomes are closely linked to the seven steps of 
+Cancer-Immunity Cycle as proposed by Chen, Coukos and Mellman. 
+According to this cycle, cancer cell eradication by the immune cells is a 
+stepwise process beginning with cancer immune recognition and 
+mounting of an adaptive immune response, to cancer cell elimination; 
+each of them represents an eligible target for treatment, as well as a 
+potential strategy for cancer immune escape [1]. In this context in-
+hibition of PD-1/L1 checkpoint axis using monoclonal antibodies 
+(mAbs) has shown a well-established efficacy in the treatment of nu-
+merous cancer types including head and neck squamous cell carcinoma 
+(HNSCC) and has found wide clinical application in recent years, while 
+novel approaches using combinations of checkpoint inhibitors with 
+radiotherapy and/or chemotherapy, cytokine-based and/or adoptive T
+cell therapies are investigated in ongoing clinical trials
